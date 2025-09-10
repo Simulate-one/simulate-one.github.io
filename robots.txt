@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simulate-one.github.io/SimingYe.github.io/sitemap.xml
+
+
